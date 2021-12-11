@@ -191,7 +191,7 @@ h6 {
 }
 
 #header .logo img {
-    max-height: 40px;
+    max-height: 80px;
 }
 
 
@@ -586,7 +586,7 @@ h6 {
     transition: 0.5s;
     line-height: 1;
     color: #fff;
-    background: #3fbbc0;
+    background: #f11144;
 }
 
 #hero .btn-get-started:hover {
@@ -755,7 +755,7 @@ section {
 }
 
 .featured-services .icon-box:hover::before {
-    background: #3fbbc0;
+    background: #f11144;
     top: 0;
     border-radius: 0px;
 }
