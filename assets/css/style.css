@@ -191,7 +191,7 @@ h6 {
 }
 
 #header .logo img {
-    max-height: 80px;
+    max-height: 40px;
 }
 
 
@@ -201,7 +201,7 @@ h6 {
 
 .appointment-btn {
     margin-left: 25px;
-    background: #f11144;
+    background: #3fbbc0;
     color: #fff;
     border-radius: 4px;
     padding: 8px 25px;
@@ -586,7 +586,7 @@ h6 {
     transition: 0.5s;
     line-height: 1;
     color: #fff;
-    background: #f11144;
+    background: #3fbbc0;
 }
 
 #hero .btn-get-started:hover {
@@ -755,7 +755,7 @@ section {
 }
 
 .featured-services .icon-box:hover::before {
-    background: #f11144;
+    background: #3fbbc0;
     top: 0;
     border-radius: 0px;
 }
