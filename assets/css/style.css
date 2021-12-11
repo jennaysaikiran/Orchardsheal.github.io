@@ -1,11 +1,3 @@
-/**
-* Template Name: Medicio - v4.7.0
-* Template URL: https://bootstrapmade.com/medicio-free-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -177,7 +169,7 @@ h6 {
 }
 
 #header .logo {
-    font-size: 28px;
+    font-size: 50px;
     margin: 0;
     padding: 0;
     line-height: 1;
@@ -201,7 +193,7 @@ h6 {
 
 .appointment-btn {
     margin-left: 25px;
-    background: #3fbbc0;
+    background: #f11144;
     color: #fff;
     border-radius: 4px;
     padding: 8px 25px;
@@ -554,7 +546,7 @@ h6 {
 
 #hero .carousel-control-next-icon:hover,
 #hero .carousel-control-prev-icon:hover {
-    background: #3fbbc0;
+    background: #f11144;
     color: rgba(255, 255, 255, 0.8);
 }
 
@@ -586,7 +578,7 @@ h6 {
     transition: 0.5s;
     line-height: 1;
     color: #fff;
-    background: #3fbbc0;
+    background: #f11144;
 }
 
 #hero .btn-get-started:hover {
@@ -755,7 +747,7 @@ section {
 }
 
 .featured-services .icon-box:hover::before {
-    background: #3fbbc0;
+    background: #f11144;
     top: 0;
     border-radius: 0px;
 }
@@ -767,7 +759,7 @@ section {
 .featured-services .icon i {
     font-size: 48px;
     line-height: 1;
-    color: #3fbbc0;
+    color: #f11144;
     transition: all 0.3s ease-in-out;
 }
 
@@ -802,7 +794,7 @@ section {
 --------------------------------------------------------------*/
 
 .cta {
-    background: #3fbbc0;
+    background: #f11144;
     color: #fff;
     background-size: cover;
     padding: 60px 0;
@@ -1098,7 +1090,7 @@ section {
 }
 
 .appointment .php-email-form button[type=submit] {
-    background: #3fbbc0;
+    background: #f11144;
     border: 0;
     padding: 10px 35px;
     color: #fff;
