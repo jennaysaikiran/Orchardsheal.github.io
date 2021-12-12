@@ -39,7 +39,7 @@ h6 {
     bottom: 0;
     z-index: 9999;
     overflow: hidden;
-    background: #fff;
+    background: #f11144;
 }
 
 #preloader:before {
@@ -1758,7 +1758,7 @@ section {
 #footer .footer-top .social-links a {
     font-size: 18px;
     display: inline-block;
-    background: #3fbbc0;
+    background: #f82a5a;
     color: #fff;
     line-height: 1;
     padding: 8px 0;
@@ -1794,7 +1794,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
     padding-right: 2px;
-    color: #3fbbc0;
+    color: #fc053d;
     font-size: 18px;
     line-height: 1;
 }
